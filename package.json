@@ -1,11 +1,12 @@
 {
   "name": "vutran",
   "version": "0.1.0",
-  "description": "",
+  "description": "Placeholder module for my name",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Vu <vu@vu-tran.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vutran/vutran"
+  }
 }
