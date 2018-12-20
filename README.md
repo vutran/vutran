@@ -1,6 +1,16 @@
 # vutran
 
-> Placeholder module for my name
+> My personal business card.
+
+## Usage
+
+```
+$ npx vutran
+```
+
+## Special Thanks
+
+Originally done by [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552)
 
 ## License
 
